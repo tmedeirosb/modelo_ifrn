@@ -1,0 +1,7 @@
+codigo_censup,codigo_siape,descricao,id,inativo_siape
+3,4,Parda,1,False
+2,6,Preta,2,False
+1,1,Branca,3,False
+5,5,Indígena,4,False
+4,3,Amarela,5,False
+0,9,Não declarado,7,False
